@@ -1,6 +1,6 @@
 streamlit
 pandas
-openpyxl
 matplotlib
-st-aggrid
+openpyxl
+st-aggrid==0.4.0
 
